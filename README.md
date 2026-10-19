@@ -1,6 +1,6 @@
 # Chess Tournament Manager
 
-Application de gestion de tournois d'échecs en ligne de commande.
+Gestionnaire de tournois d’échecs en ligne de commande, avec architecture MVC, sauvegarde JSON et génération de rapports HTML.
 
 ## Installation
 
